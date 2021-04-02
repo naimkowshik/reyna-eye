@@ -34,7 +34,7 @@ print(" ")
 time.sleep(1)
 os.system("mkdir /opt/reyna/")
 time.sleep(2)
-os.system("cp -r /opt/reyna/")
+os.system("cp -r * /opt/reyna/")
 print(" ")
 print(R + "[" + G + "Thanks For Setup" + R + "]" + RS)
 
